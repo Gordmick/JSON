@@ -6,7 +6,7 @@
 	"Severity":"Critical",
 	"Priority":"High",
 	"Status":"Open",
-	"Author":"Tatiana Gordievskaia",
+	"Author":"Mikhail Gordievskiy",
 	"Steps for reproduce":"Open Login page, clicking the buttom `register`",
 	"Result":"The page does not go to the registration page",
 	"Expected Result":"The page goes to the registration page"
